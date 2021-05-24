@@ -1,0 +1,13 @@
+.tArea {
+  padding: 10px;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+@media (max-width: 600px) {
+  textarea {
+    max-width: 88vw !important;
+  }
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/practices/practice/practice.css"],"names":[],"mappings":"AAAA,OACE,YACF,CAEA,GACE,aACF,CAEA,yBACE,SACE,wBACF,CACF","file":"10.508eb5bc.chunk.css","sourcesContent":[".tArea {\n  padding: 10px;\n}\n\nh1 {\n  font-size: 2em;\n}\n\n@media (max-width: 600px) {\n  textarea {\n    max-width: 88vw !important;\n  }\n}\n"]}
